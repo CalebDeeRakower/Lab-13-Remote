@@ -1,0 +1,18 @@
+h1{
+  color: red;
+}
+* {
+  font-family: sans-serif;
+}
+.active {
+border-color: black;
+  border-style: solid;
+  border-width: 1px;
+}
+body {
+background: white
+url(https://vignette.wikia.nocookie.net/mspaintadventures/images/9/95/LordEnglish2.gif/revision/latest?cb=20160407051930) repeat
+}
+p {
+  margin: 20px;
+}
